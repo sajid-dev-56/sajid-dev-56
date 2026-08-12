@@ -71,11 +71,19 @@ Integrating cutting-edge AI capabilities into applications. Utilizing the Gemini
 <b>Full Stack / DevOps Engineer</b> @ <b>CodeOps Pro</b><br>
 End-to-end web application development (Next.js/React) • Designing and optimizing CI/CD pipelines (GitHub Actions) • Deploying and managing containerized apps (Docker/K8s)
 <br><br>
-<b>Featured Open Source & Freelance Work:</b><br>
-🎓 <b>CodeOps Internship Portal</b> — EdTech Platform with RBAC (Next.js, MongoDB)<br>
-🛍️ <b>Stranger Things Store</b> — Custom Shopify Storefront (Shopify, TS)<br>
-🤖 <b>My Personal Jarvis</b> — AI Assistant / Agent (AI Integrations, Python)<br>
-📹 <b>Fall Detection DL</b> — Computer Vision & AIOps (Deep Learning, Python, CV)<br>
+<b>🔥 Featured Projects & Open Source 🔥</b><br><br>
+
+<b>🎓 Final Year Project (AIOps & Computer Vision)</b><br>
+👁️ <b>Smart Proctoring System (Cheating/Gaze Detection)</b> — AI-powered exam monitoring (Python, Deep Learning, CV)<br>
+📹 <b>Fall Detection DL</b> — Real-time human fall detection system (Python, Deep Learning, CV)<br><br>
+
+<b>🏢 Enterprise Platforms & Portals</b><br>
+🎓 <b>CodeOps Internship Portal</b> — EdTech platform with Role-Based Access (Next.js, MongoDB)<br>
+🏢 <b>CodeOps Hiring Portal</b> — Comprehensive recruitment system (Next.js, TypeScript)<br><br>
+
+<b>🌐 E-Commerce & AI Engineering</b><br>
+🛍️ <b>Stranger Things Store</b> — Custom interactive Shopify Storefront (Shopify, TypeScript)<br>
+🤖 <b>My Personal Jarvis</b> — Intelligent Voice Assistant / AI Agent (Python, API Integrations)<br>
 </p>
 
 <br>
